@@ -1,5 +1,7 @@
 # Mask Adapter for Coffee filters
 
+<img src="https://github.com/mapconcierge/MaskAdapter4CoffeeFilters/blob/master/assets/img/example_style.jpg?raw=true" width="300">
+
 * 子ども用 ハート型
 
 https://github.com/mapconcierge/MaskAdapter4CoffeeFilters/blob/master/forChildren/MaskAdapter4boys.stl
